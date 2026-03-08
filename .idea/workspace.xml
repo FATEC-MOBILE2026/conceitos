@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d8e923f-1073-4e49-8b5c-c978c467e4a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read.me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/AbstrataStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/Alcool.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/Diesel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/Eletrico.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/Gasolina.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/abstrata/Veiculo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/classprop/Banco.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/classprop/ClassPropStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/dataclass/BancoData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/dataclass/DataClassStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/encapsulamento/Conta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/encapsulamento/EncapsulamentoStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/nullsafety/EnderecoPessoa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/nullsafety/NullSafetyStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/nullsafety/Pessoa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/sealed/Movimento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/sealed/SealedStart.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/singleton/RegistroMovimento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/fatec/singleton/SingletonStart.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/fatec/App.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.8.6" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../../repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="$USER_HOME$/.sdkman/candidates/maven/3.8.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AY1o9cXV6Da9t6kIjtIjmgkwTr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Kotlin.AbstrataStartKt.executor": "Run",
+    "Kotlin.ClassPropStartKt.executor": "Run",
+    "Kotlin.DataClassStartKt.executor": "Run",
+    "Kotlin.EncapsulamentoStartKt.executor": "Run",
+    "Kotlin.NullSafetyStartKt.executor": "Run",
+    "Kotlin.SealedStartKt.executor": "Run",
+    "Kotlin.SingletonStartKt.executor": "Run",
+    "Kotlin.Start.executor": "Debug",
+    "Kotlin.StartKt.executor": "Run",
+    "Kotlin.Unnamed.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Volumes/Externo/Project/fatec2026/conceitos",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="io.github.fatec.classprop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.SingletonStartKt">
+    <configuration name="ClassPropStartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.classprop.ClassPropStartKt" />
+      <module name="conceitos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassStartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.dataclass.DataClassStartKt" />
+      <module name="conceitos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullSafetyStartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.nullsafety.NullSafetyStartKt" />
+      <module name="conceitos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SealedStartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.sealed.SealedStartKt" />
+      <module name="conceitos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonStartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.singleton.SingletonStartKt" />
+      <module name="conceitos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="JetRunConfigurationType">
+      <option name="MAIN_CLASS_NAME" value="io.github.fatec.Start" />
+      <module name="conceitos" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Start" />
+      <item itemvalue="Kotlin.ClassPropStartKt" />
+      <item itemvalue="Kotlin.DataClassStartKt" />
+      <item itemvalue="Kotlin.NullSafetyStartKt" />
+      <item itemvalue="Kotlin.SealedStartKt" />
+      <item itemvalue="Kotlin.SingletonStartKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SingletonStartKt" />
+        <item itemvalue="Kotlin.SealedStartKt" />
+        <item itemvalue="Kotlin.NullSafetyStartKt" />
+        <item itemvalue="Kotlin.ClassPropStartKt" />
+        <item itemvalue="Kotlin.DataClassStartKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8e923f-1073-4e49-8b5c-c978c467e4a1" name="Changes" comment="" />
+      <created>1724088850878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724088850878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
